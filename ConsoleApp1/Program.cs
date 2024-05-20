@@ -10,7 +10,6 @@ namespace EstructuraClase
     {
         static void Main(string[] args)
         {
-            MiembrosDeLaComunidad miembros = new MiembrosDeLaComunidad();
 
             Empleado empleado = new Empleado();
 
