@@ -8,5 +8,8 @@ namespace EstructuraClase
 {
     public class Estudiante : MiembrosDeLaComunidad
     {
+        private string curso {  get; set; }
+        private string horario { get; set; }
+        private int calificaciones { get; set; }
     }
 }
