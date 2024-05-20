@@ -8,5 +8,7 @@ namespace EstructuraClase
 {
     public class ExAlumno : MiembrosDeLaComunidad
     {
+        private string fechaRetiro {  get; set; }
+        private int calificaciones { get; set; }
     }
 }
