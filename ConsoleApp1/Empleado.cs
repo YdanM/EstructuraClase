@@ -8,5 +8,8 @@ namespace EstructuraClase
 {
     public class Empleado : MiembrosDeLaComunidad
     {
+       private string empresa {  get; set; }
+       private string cargo { get; set; }
+       private decimal salario { get; set; }
     }
 }
